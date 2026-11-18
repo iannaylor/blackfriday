@@ -1,0 +1,28 @@
+{
+  "name": "PageTest",
+  "url": "https://pagetest.ai/black-friday",
+  "description": "AI-written headline, button and copy tests on your real visitors, with no code and no developer",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "83% off the first year with code BF2026, first 100 customers",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 3588, "sale": 599, "currency": "USD" },
+  "discount": 83,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
