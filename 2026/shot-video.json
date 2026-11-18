@@ -1,0 +1,14 @@
+{
+  "name": "Shot Video",
+  "url": "https://shot.video/black-friday",
+  "description": "Turns the laptop and phones you already own into a multi-camera studio. Phones join by QR code, you press record once, and AI makes the first edit",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "About 80% off the first year of annual plans: Creator $39 ($190), Pro $79, Studio $159",
+  "pricing": "subscription",
+  "price": { "regular": 190, "sale": 39, "currency": "USD" },
+  "discount": 80,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://shot.video/favicon.png"
+}
