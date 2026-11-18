@@ -1,0 +1,28 @@
+{
+  "name": "Webinar Flow",
+  "url": "https://webinarflow.studio/black-friday",
+  "description": "Automated webinars that run on a rolling schedule, answer questions as people watch and alert your phone when a buyer needs you",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "83% off the first year: Growth $159 ($950), Scale $399 ($2,390)",
+  "pricing": "subscription",
+  "price": { "regular": 950, "sale": 159, "currency": "USD" },
+  "discount": 83,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://webinarflow.studio/favicon.png"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
