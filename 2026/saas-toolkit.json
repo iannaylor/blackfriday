@@ -1,0 +1,30 @@
+{
+  "name": "SaaS Toolkit",
+  "url": "https://saastoolkit.ai/black-friday",
+  "description": "AI chat, visitor identification, email follow-up and team alerts in one place, turning visitors into paying customers",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "83% off the first year with code BF2026: Growth $59 ($348), Business $99",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 348, "sale": 59, "currency": "USD" },
+  "discount": 83,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://saastoolkit.ai/favicon.png"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
