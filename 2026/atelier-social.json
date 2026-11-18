@@ -1,0 +1,26 @@
+{
+  "name": "Atelier Social",
+  "url": "https://ateliersocial.io/black-friday",
+  "description": "AI-first social media studio: write a post once and publish it adapted to every platform, brand and client",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "83% off the first year, from $158 (renews at $948 a year)",
+  "pricing": "subscription",
+  "price": { "regular": 948, "sale": 158, "currency": "USD" },
+  "discount": 83,
+  "endDate": "2026-12-31",
+  "icon": "https://ateliersocial.io/favicon.png"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
